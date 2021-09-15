@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 Networking Module with interceptors and call adapters
                        DESC
 
-  s.homepage         = 'https://github.com/bozdag.rahmi@gmail.com/RBNetworkingModule'
+  s.homepage         = 'https://github.com/rbozdag/RBNetworkingModule'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'bozdag.rahmi@gmail.com' => 'bozdag.rahmi@gmail.com' }
@@ -29,6 +29,7 @@ Networking Module with interceptors and call adapters
   s.social_media_url = 'https://twitter.com/RBozdag'
 
   s.ios.deployment_target = '10.0'
+  s.swift_version = '5.0'
 
   s.source_files = 'RBNetworkingModule/Classes/**/*'
   
