@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  RBNetworkingModule
+//  RBNetworkingModuleModule
 //
 //  Created by bozdag.rahmi@gmail.com on 09/15/2021.
 //  Copyright (c) 2021 bozdag.rahmi@gmail.com. All rights reserved.
@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
     }
