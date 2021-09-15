@@ -25,7 +25,7 @@ Networking Module with interceptors and call adapters
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'bozdag.rahmi@gmail.com' => 'bozdag.rahmi@gmail.com' }
-  s.source           = { :git => 'https://github.com/bozdag.rahmi@gmail.com/RBNetworkingModule.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/rbozdag/RBNetworking.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/RBozdag'
 
   s.ios.deployment_target = '10.0'
