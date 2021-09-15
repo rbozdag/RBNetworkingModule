@@ -1,0 +1,23 @@
+PODS:
+  - RBNetworkingModule (1.0.0):
+    - RxSwift
+  - RxSwift (6.2.0)
+
+DEPENDENCIES:
+  - RBNetworkingModule (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - RxSwift
+
+EXTERNAL SOURCES:
+  RBNetworkingModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RBNetworkingModule: 1d039d9eb9c187e487ddb12c8f615402cd6e33ee
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+
+PODFILE CHECKSUM: ed767b9ab5314eb8a58d0caa2059c63b1c9c2b03
+
+COCOAPODS: 1.10.1

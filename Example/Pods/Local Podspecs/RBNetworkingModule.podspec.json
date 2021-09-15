@@ -1,0 +1,28 @@
+{
+  "name": "RBNetworkingModule",
+  "version": "1.0.0",
+  "summary": "Layered Networking Module.",
+  "description": "Networking Module with interceptors and call adapters",
+  "homepage": "https://github.com/bozdag.rahmi@gmail.com/RBNetworkingModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bozdag.rahmi@gmail.com": "bozdag.rahmi@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/bozdag.rahmi@gmail.com/RBNetworkingModule.git",
+    "tag": "1.0.0"
+  },
+  "social_media_url": "https://twitter.com/RBozdag",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "RBNetworkingModule/Classes/**/*",
+  "dependencies": {
+    "RxSwift": [
+
+    ]
+  }
+}
